@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![](https://visitcount.itsvg.in/api?id=Tivo3012&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **Tivo3012/Tivo3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
